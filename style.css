@@ -88,7 +88,7 @@ body {
 	width: 100%;
 }
 .button:hover {
-	background: #126a2e;
+	background: hsl(158, 42%, 18%);
 }
 
 p {
