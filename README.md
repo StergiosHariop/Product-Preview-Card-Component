@@ -19,8 +19,6 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
-
 ## The Result
 
 - Basic HTML & CSS
